@@ -1,20 +1,14 @@
 ## SAS Statistical Business Analysis Using SAS 9 : Regression and Modeling
 
 </br>
-
-<p>
   
 ### 1. 시험소개
 * 60-65문항의 객관식, 단답형 주관식 문제
 * 합격 기준 : 정답률 68% 이상
 * 시험 시간 : 2시간
 * 시험 ID : A00-240
-
-</p>
-
-<p>
   
-### 2. 시험내용
+### 2. [시험내용](https://www.sas.com/ko_kr/certification/credentials/advanced-analytics/statistical-business-analyst.html)
 * ANOVA의 가정 확인 - 10%
   + ANOVA의 가정 확인
   + GLM 및 TTEST 프로시저를 사용해 얻은 모집단 평균 간의 차이 분석
@@ -42,5 +36,20 @@
   + Training 데이터와 validation 데이터를 이용한 모형 선택 및 검증
   + 모형비교, 선택을 위한 그래프(ROC, Lift, Gains Charts) 작성 및 해석
   + Scoring을 위한 효과적인 컷오프 값 설정
-</p>
+
+### 3. e-Learning
+* https://support.sas.com/edu/elearning.html?ctry=kr&productType=library
+  + SAS 기초통계 분석
+  + Logistic Regression을 이용한 예측 모델링
   
+### 4. SAS 기초통계 분석
+* Statistics 1 : Introduction to ANOVA
+  + Chapter 1. Introduction to Statistics
+  + Chapter 2. Analysis of Variance (ANOVA)
+
+
+
+### 5. Logistic Regression을 이용한 예측 모델링
+
+
+
