@@ -43,13 +43,19 @@
   + Logistic Regression을 이용한 예측 모델링
   
 ### 4. SAS 기초통계 분석
-* Statistics 1 : Introduction to ANOVA
+* Statistics 1 : Introduction to ANOVA Regression, and Logistic Regression
   + Chapter 1. Introduction to Statistics
   + Chapter 2. Analysis of Variance (ANOVA)
-
+  + Chapter 3. Regression
+  + Chapter 4. Regression Diagnostics
+  + Chapter 5. Categorical Data Analysis
 
 
 ### 5. Logistic Regression을 이용한 예측 모델링
-
+* Predictive Modeling Using Logistic Regression
+  + Chapter 1. Predictive Modeling
+  + Chapter 2. Fitting the Model
+  + Chapter 3. Preparing the Input Variables
+  + Chapter 4. Measuring Classifier Performance
 
 
